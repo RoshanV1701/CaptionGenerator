@@ -10,5 +10,4 @@ This is a deep learning model developed on Tensorflow for accurate captioning of
 
 * Open the Jupyter notebook on Google Colab. If it is not opening from the github file, use this url : [Google Colab](https://colab.research.google.com/github/RoshanV1701/CaptionGenerator/blob/main/captionGenAIResearch.ipynb)
 * Download the CaptionGenerator\ML Links folder and upload it to the google drive account being used for colab.
-* Go to the src directory
 * Run the code on colab.
